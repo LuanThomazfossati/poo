@@ -3,7 +3,7 @@ class conta:
           self.saldo = saldo
       def saca(self,valor)
           valor = x 
-          x - saldo = saldofinal
+          saldo - x = saldofinal
       def depositar(self,deposita)
           deposita = y 
           y + saldofinal = saldo final
