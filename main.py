@@ -1,2 +1,1 @@
-import conta from conta
-
+from conta import conta
