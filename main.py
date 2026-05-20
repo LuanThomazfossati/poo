@@ -1,1 +1,2 @@
-from conta import conta
+from conta import Conta
+
